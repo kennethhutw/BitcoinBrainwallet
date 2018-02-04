@@ -1,0 +1,22 @@
+<html>
+        <% include header %>
+        <h2>BTC USD Converter</h2>
+        <input type="text" id="btc" value ="1" onkeyup="btcusd();" onChange="btcusd();"> =
+        <input type="text" id="usd" value = "<%= lastPrice %>" onkeyup="usdbtc();" onChange="usdbtc();">
+        <script>
+        function btcusd(){
+                var market_price = <%= lastPrice %>;
+                var btc_value= document.getElementById("btc").value;
+                var calc = btc_value * market_price;
+                document.getElementById("usd").value = calc;
+        };
+
+        function usdbtc(){
+                var market_price = <%= lastPrice %>;
+                var btc_value= document.getElementById("usd").value;
+                var calc = btc_value / market_price;
+                document.getElementById("btc").value = calc;
+        };
+
+        </script>
+</html>
