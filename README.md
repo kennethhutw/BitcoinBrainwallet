@@ -1,10 +1,13 @@
 # Bitcoin Brain wallet
 
-## Develop Bitcoin wallet with NodeJS
+## Develop Bitcoin wallet with NodeJS and ejs
 
 
 ![BitcoinWallet](./Img/BitcoinBrainwallet.gif)
 
+## EJS 
+
+[EJS -- Embedded JavaScript templates](http://ejs.co/)
 
 ##Lecture :
 2. Request installation and how to get the price of Bitcoin
