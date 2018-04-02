@@ -10,6 +10,7 @@
 [EJS -- Embedded JavaScript templates](http://ejs.co/)
 
 ##Lecture :
+1. None
 2. Request installation and how to get the price of Bitcoin
 3. Express installation
 4. body-parser installation
