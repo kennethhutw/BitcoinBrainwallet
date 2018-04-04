@@ -49,4 +49,4 @@ I want to thank CuriousInventor  and m1xolyd1an. I learn it from them.
 
 [CuriousInventor](https://www.youtube.com/watch?v=YoPV9hfm6yk )
 
-[m1xolyd1an] (https://www.youtube.com/watch?v=lUiKpNU2Tx4&t=11s)
+[m1xolyd1an](https://www.youtube.com/watch?v=lUiKpNU2Tx4&t=11s)
